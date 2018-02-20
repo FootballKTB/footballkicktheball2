@@ -862,36 +862,36 @@ select.form-control.bfh-countries:hover {
     line-height: 2em;
 }
 .share li a.icon{
-    background: url(../images/like.png) no-repeat 0px 0px;
+    background: url(../Images/like.png) no-repeat 0px 0px;
     height: 34px;
     display: block;
 }
 .share li a.fb-icon{
-    background: url(../images/fb.png) no-repeat 0px 0px;
+    background: url(../Images/fb.png) no-repeat 0px 0px;
 }
 .share li a.rss-icon{
-    background: url(../images/rss.png) no-repeat 0px 0px;
+    background: url(../Images/rss.png) no-repeat 0px 0px;
 }
 .share li a.dribbble-icon{
-    background: url(../images/dribbble.png) no-repeat 0px 0px;
+    background: url(../Images/dribbble.png) no-repeat 0px 0px;
 }
 .share li a.twitter-icon{
-    background: url(../images/twitter.png) no-repeat 0px 0px;
+    background: url(../Images/twitter.png) no-repeat 0px 0px;
 }
 .share li a.pinterest-icon{
-    background: url(../images/pinterest.png) no-repeat 0px 0px;
+    background: url(../Images/pinterest.png) no-repeat 0px 0px;
 }
 .share li a.behance-icon{
-    background: url(../images/behance.png) no-repeat 0px 0px;
+    background: url(../Images/behance.png) no-repeat 0px 0px;
 }
 .share li a.whatsapp-icon{
-    background: url(../images/whatsapp.png) no-repeat 0px 0px;
+    background: url(../Images/whatsapp.png) no-repeat 0px 0px;
 }
 .share li a.comment-icon{
-    background: url(../images/comment.png) no-repeat 0px 0px;
+    background: url(../Images/comment.png) no-repeat 0px 0px;
 }
 .share li.view{
-    background: url(../images/view.png) no-repeat 0px 0px;
+    background: url(../Images/view.png) no-repeat 0px 0px;
     height: 34px;
     display: block;
     padding-left: 3em;
