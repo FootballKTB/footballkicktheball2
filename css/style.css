@@ -503,11 +503,12 @@ a.btn.btn-primary.btn-lg.see-button.hvr-shutter-out-horizontal {
   -ms-border-radius: 3px;
   -o-border-radius: 3px;
   -moz-border-radius: 3px;
+  
 }
 .clck {
   position: absolute;
   bottom: 1%;
-  right: 9%;
+  right: 12%;
   display: block;
   z-index: 9;
 }
